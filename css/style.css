@@ -2,6 +2,41 @@
     margin-top: 20px;
 }
 
+.places {
+    margin: -2px;
+    transform: translate(100%, -30%);
+}
+
+.places2 {
+    margin: -2px;
+    transform: translate(100%, -30%);
+}
+
+.places3 {
+    margin: -2px;
+    transform: translate(110%, -30%);
+}
+
+.contact-btn {
+    transform: translate(-5%);
+}
+
+.social1:hover {
+    color: #b1d0f3!important;
+}
+
+.social5:hover {
+    color: lightskyblue!important;
+}
+
+.social3:hover {
+    color: #f08282!important
+}
+
+.social4:hover {
+    color: rgb(238, 238, 113)!important;
+}
+
 .section-search input {
     padding: 5px !important;
     font-size: 18px !important;
@@ -9,10 +44,14 @@
     border: #f4f4f4 3px solid !important;
 }
 
-.section-follow .fa-4x {
-    margin: 5px 10px;
+.follow .fa-4x {
+    margin: 5px 10px !important;
 }
 
 .section-contact h5 {
     margin-bottom: 30px;
+}
+
+.submit {
+    margin: 4.5px;
 }

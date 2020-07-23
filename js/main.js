@@ -16,7 +16,7 @@ const ac = document.querySelector('.autocomplete');
 M.Autocomplete.init(ac, {
     data: {
         "Aruba": null,
-        "Cancun Mexico": null,
+        "Cancun": null,
         "Hawaii": null,
         "Florida": null,
         "California": null,
